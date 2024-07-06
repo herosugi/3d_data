@@ -41,7 +41,7 @@
     "model":{
       "gltf":"https://raw.githubusercontent.com/herosugi/3d_data/main/taiguruma_s.glb",
       "minimumPixelSize":100,
-      "maximumScale":50
+      "maximumScale":200
     },
     "orientation" : {
       "velocityReference": "#position"
